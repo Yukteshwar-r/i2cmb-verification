@@ -34,12 +34,16 @@ cd project_benches/proj_4/sim
 If you need to perform steps manually using the provided Makefile:
 
 * **Compile the Design:**
+
   `make compile`
 * **Run a Single Simulation:**
+
   `make simulate`
 * **Merge Simulation and Test Plan Coverage:**
+
   `make merge_coverage`
 * **Generate HTML Coverage Report:**
+
   `make report_coverage`
 
 
