@@ -18,7 +18,7 @@ The project was developed in four progressive stages, culminating in a coverage-
     * Implemented automated regression scripts and formal bug reporting for identified hardware flaws.
 
 
-## 🚀 Execution Instructions (Project 4)
+## 🚀 Execution Instructions
 
 To run the final verification suite and generate merged coverage results, follow these steps in your simulation environment:
 
